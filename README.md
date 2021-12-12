@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Janos Varga
+- 👋 Hi, I’m Janos Varga @janosdev
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate for learning more Python cod.
